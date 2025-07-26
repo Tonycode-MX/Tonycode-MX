@@ -17,11 +17,11 @@
 
 - 🎓 I’m a Physics student at the University of Guadalajara.
 
-- 🌱 Currently learning Git, Python, R, and expanding my knowledge in data science, machine learning, and AI.
+- 🌱 Currently learning Git, R, and expanding my knowledge in data science, machine learning, and AI.
 
 - 🤝 I'm open to collaborating on projects related to data analysis, scientific computing, or emerging technologies.
 
-- 💼 I have experience with programming languages such as Python, Java, SQL, and I'm continuously improving my skills through hands-on practice and coursework.
+- 💼 I have experience with programming languages such as Python, JavaScript, SQL, and I'm continuously improving my skills through hands-on practice and coursework.
 
 <h2> Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px"> </h2>
 
@@ -38,6 +38,10 @@
 </a>
 
 <a href="https://github.com/Tonycode-MX">
+  <img width="32px" src="https://cdn-images-1.medium.com/max/278/1*f5X-ZCG4vlJ7V5W7KPBicg@2x.png" alt="ESP32">
+</a>
+
+<a href="https://github.com/Tonycode-MX">
   <img width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png" alt="R">
 </a>
 
@@ -45,12 +49,16 @@
   <img width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/1200px-Matlab_Logo.png" alt="Matlab">
 </a>
 
-<a href="https://github.com/Tonycode-MX?tab=repositories&q=&type=&language=sql&sort=">
+<a href="https://github.com/Tonycode-MX">
   <img width="32px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL">
 </a>
 
-<a href="https://github.com/Tonycode-MX?tab=repositories&q=&type=&language=sql&sort=">
+<a href="https://github.com/Tonycode-MX">
   <img width="32px" src="https://www.emv.ovgu.de/emv_media/Layout/Logos/overleaf_og_logo-height-230-width-230.png" alt="LaTeX">
+</a>
+
+<a href="https://github.com/Tonycode-MX">
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg" alt="JavaScript">
 </a>
 
 <a href="https://github.com/Tonycode-MX">
@@ -77,7 +85,10 @@
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/tonymartinezanalysis/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'https://discord.com/users/itonycol'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/discord.svg"/></a>
 <a href = 'https://www.github.com/Tonycode-MX'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+
+
   
 <br>
 <br>
