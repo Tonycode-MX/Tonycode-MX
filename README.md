@@ -19,9 +19,9 @@
 
 - 🌱 Currently learning Git, R, and expanding my knowledge in data science, machine learning, and AI.
 
-- 🤝 I'm open to collaborating on projects related to data analysis, scientific computing, or emerging technologies.
+- 🤝 I'm open to collaborating on projects related to artificial intelligence, data analysis, scientific computing, or emerging technologies.
 
-- 💼 I have experience with programming languages such as Python, JavaScript, SQL, and I'm continuously improving my skills through hands-on practice and coursework.
+- 💼 I have experience with programming languages such as Python, JavaScript, SQL, C++, and I'm continuously improving my skills through hands-on practice and coursework.
 
 <h2> Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px"> </h2>
 
@@ -76,6 +76,12 @@
 <a href="https://github.com/Tonycode-MX">
   <img width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VSCode">
 </a>
+
+<a href="https://github.com/Tonycode-MX">
+  <img width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="CPP">
+</a>
+
+
 
 <a href="https://github.com/Tonycode-MX">
   <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" alt="GitHub">
