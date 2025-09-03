@@ -94,7 +94,7 @@
 <br>
   <br>
 
-<img width="52%" align="left" alt="Top Languages" src="https://github-readme-activity-graph.vercel.app/graph?username=Tonycode-MX&theme=tokyo-night" /> <img width="44%" align="right" alt="Top Languages" src="https://github-readme-streak-stats.herokuapp.com/?user=Tonycode-MX&theme=tokyonight" />
+<img width="51%" align="left" alt="Top Languages" src="https://github-readme-activity-graph.vercel.app/graph?username=Tonycode-MX&theme=tokyo-night" /> <img width="43%" align="right" alt="Top Languages" src="https://github-readme-streak-stats.herokuapp.com/?user=Tonycode-MX&theme=tokyonight" />
 
 
 
