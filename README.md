@@ -93,10 +93,8 @@
 <br>
 <br>
   <br>
-  
-[![Tony's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tonycode-MX&theme=tokyo-night)](https://github.com/Tonycode-MX)
 
-| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=Tonycode-MX&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tonycode-MX&theme=tokyonight) |
+<img width="30%" align="left" alt="Top Languages" src="https://github-readme-activity-graph.vercel.app/graph?username=Tonycode-MX&theme=tokyo-night" /> <img width="27%" align="right" alt="Top Languages" src="https://github-readme-streak-stats.herokuapp.com/?user=Tonycode-MX&theme=tokyonight" />
 
 
 
