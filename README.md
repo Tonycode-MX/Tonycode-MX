@@ -13,7 +13,7 @@
 
 <h2> About Me </h2>
 
-<img width="33%" align="right" alt="Top Languages" src="https://github-readme-stats.vercel.app/api?username=Tonycode-MX&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight" />
+<img width="35%" align="right" alt="Top Languages" src="https://github-readme-stats.vercel.app/api?username=Tonycode-MX&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight" />
 
 - 🎓 I’m a Physics student at the University of Guadalajara.
 
@@ -94,7 +94,7 @@
 <br>
   <br>
 
-<img width="30%" align="left" alt="Top Languages" src="https://github-readme-activity-graph.vercel.app/graph?username=Tonycode-MX&theme=tokyo-night" /> <img width="27%" align="right" alt="Top Languages" src="https://github-readme-streak-stats.herokuapp.com/?user=Tonycode-MX&theme=tokyonight" />
+<img width="50%" align="left" alt="Top Languages" src="https://github-readme-activity-graph.vercel.app/graph?username=Tonycode-MX&theme=tokyo-night" /> <img width="43%" align="right" alt="Top Languages" src="https://github-readme-streak-stats.herokuapp.com/?user=Tonycode-MX&theme=tokyonight" />
 
 
 
